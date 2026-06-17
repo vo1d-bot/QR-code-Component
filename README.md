@@ -51,7 +51,7 @@ I improved my understanding of:
 ## Author
 
 - GitHub - [vo1d-bot](https://github.com/vo1d-bot)
-- Frontend Mentor - [https://www.frontendmentor.io/profile/vo1d-bot](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [vo1d-bot](https://www.frontendmentor.io/profile/vo1d-bot)
 
 ---
 
