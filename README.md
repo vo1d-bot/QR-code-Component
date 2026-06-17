@@ -23,8 +23,8 @@ The challenge is to build a simple QR code card component that matches the given
 
 ### Links
 
-- Solution URL: [Add your live GitHub Pages / Vercel link here]
-- Live Site: [Add your deployed link here]
+- Solution URL: [Github](https://github.com/vo1d-bot/QR-code-Component.git)
+- Live Site: [Vercel](https://qr-code-component-five-black.vercel.app/)
 
 ## My Process
 
